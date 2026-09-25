@@ -1,0 +1,8 @@
+{
+  "name": "Remix Vol 1 Earth Sync Treedom",
+  "description": "Harmonic Breath Pacer and Photic Visualizer. Synchronize breath pacing rhythms with harmonic soundscapes and visual entrainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
